@@ -1,6 +1,6 @@
-# Rush-Gizlilik-Politikasi
-Ruşh Bot Gizlilik Politikasi
-Bu gizlilik politikası Zextra botunundur.
+# Secure-Gizlilik-Politikasi
+Secure Bot Gizlilik Politikasi
+Bu gizlilik politikası Secure botunundur.
 
 Bilgi Kullanıcı – Discord platformuna kayıtlı olan her bir tekil kullanıcı. ID – Her kullanıcıya özgü oluşturulmuş, kullanıcıyı temsil eden bir kimlik. Sunucu – Discord platformuna kayıtlı olan her bir tekil sunucu. Link - Kullanıcının link ekleme komutu ile belirttiği link/adres.
 
@@ -8,4 +8,4 @@ Saklanan Verileriniz 1A) Komut Kullanılarak Saklanılan Veriler • Kullanıcı
 
 Verilerinizin Korunumu Verileriniz, şifrelenme yöntemiyle, erişime kısıtlı bir veri tabanlarında saklanır. Verilerinizin gizlenimi hakkında bize zextradestek@gmail.com iletişim adresinden elektronik posta gönderebilirsiniz. Verileriniz hakkında bir endişeniz veya sorunuz bulunmaktaysa, bilet oluşturarak yardım alabilirsiniz.
 
-Verilerinizin Silinimi Verilerinizin silinmesi hakkında talep oluşturmakta özgürsünüz. Verilerinizin tamamen silinmesi için talep isteğinizi ` Bonitâs#0001 (1000009029306814514) isim etiketli ve ID'li kullanıcıya Direkt Mesaj atarak ya da zextradestek@gmail.com iletişim adresinden elektronik posta göndererek iletebilirsiniz. Talebiniz, alındıktan 30 gün içinde işleme alınır. 
+Verilerinizin Silinimi Verilerinizin silinmesi hakkında talep oluşturmakta özgürsünüz. Verilerinizin tamamen silinmesi için talep isteğinizi ` rewz_032 (1179485504299876495) isim etiketli ve ID'li kullanıcıya Direkt Mesaj atarak ya da zextradestek@gmail.com iletişim adresinden elektronik posta göndererek iletebilirsiniz. Talebiniz, alındıktan 30 gün içinde işleme alınır. 
